@@ -10,4 +10,3 @@ if is_stundent:
 else:
     print("You are not a student")
 
-
