@@ -20,5 +20,7 @@ print("PI = {0:.3f}".format(math.pi))
 print("{0} is {1} years old".format(name, age))
 
 # string formating
-print("{0:*^10} : {1:<20}".format(name, age), end=".")
+print("{0:*^10} : {1:<20}".format(name, age), end=".\n")
 
+# Demonstrate modern Python 3 style string interpolation using f-strings
+print(f"{name} is {age} years old.")
