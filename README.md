@@ -16,7 +16,7 @@ Python Learning Scripts offers a practical approach to learning Python by focusi
 - Mathematical Demonstrations 📏
  
 ## 🐍 Python Chapters 📄
-01. <a href="" title="Chapter 01">Chapter 01 - Introduction to Python: A Comprehensive Guide to Data Types, Operations, and User Interactions</a></td>
+01. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter01" title="Chapter 01">Chapter 01 - Introduction to Python: A Comprehensive Guide to Data Types, Operations, and User Interactions</a></td>
 02. <a href="" title="Chapter 02">Chapter 02 - Intermediate Python: Data Structures, Functions, and Object-Oriented Programming</a></td>
 03. <a href="" title="Chapter 03">Chapter 03 - Advanced Python: Object Handling, Algorithms, and Applications</a></td>
 04. <a href="" title="Chapter 04">Chapter 04 - Mastering List Manipulation: Techniques for Efficient Data Handling and Transformation</a></td>
