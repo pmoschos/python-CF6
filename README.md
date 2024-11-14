@@ -64,5 +64,6 @@ Panagiotis Moschos - pan.moschos86@gmail.com
  
 <p align="center">
   Made with ❤️ by 
-  <a href="https://www.linkedin.com/in/panagiotis-moschos" target="_blank">Panagiotis Moschos</a>
+  <a href="https://www.linkedin.com/in/panagiotis-moschos" target="_blank">
+  Panagiotis Moschos(https://github.com/pmoschos)</a>
 </p>
