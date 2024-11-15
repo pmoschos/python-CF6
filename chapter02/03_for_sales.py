@@ -1,4 +1,4 @@
-# List of fruits
+# List of fruits:
 fruits = ["Banana", "Orange", "Mango", "Grapes"]
 
 # fruit we want to check
