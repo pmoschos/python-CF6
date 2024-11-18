@@ -19,3 +19,12 @@ first_st, second_st, third_st = students
 print(f"first_st: {first_st}")
 print(f"second_st: {second_st}")
 print(f"third_st: {third_st}")
+
+# students = "Alice", "Bob", "Charlie"
+
+students = list(students)
+students[0] = "Panagiotis"
+students = tuple(students)
+
+print(students)
+print(type(students))
