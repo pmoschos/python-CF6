@@ -7,4 +7,4 @@ num2 = 10
 # res = my_add_function(num1, num2)
 res = my_add(num1, num2)
 print(res) # 110
-print(__name__) 
+print(__name__)
