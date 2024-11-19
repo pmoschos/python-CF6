@@ -24,3 +24,27 @@ def print_menu():
     print("3. Print Stack")
     print("4. q/Q for Quit")
 
+def get_choice():
+    return input("Please provide a choice\n")
+
+
+def main():
+    choice = 0
+    num = 0
+    out_num = 0
+
+    while True:
+        print_menu()
+        choice = get_choice()
+
+        if not choice:
+            continue
+
+        if choice == 'q' or choice == "Q":
+            break
+
+
+
+
+if __name__ == "__main__":
+    main()
