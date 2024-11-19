@@ -42,8 +42,38 @@ def main():
 
         if choice == 'q' or choice == "Q":
             break
+        
+        pattern = r"^\d$" # (0-9)
+        valid = re.match(pattern, choice)
 
+        if not valid:
+            print("Error in choice")
+            continue
 
+        choice = int(choice)
+
+        match choice:
+            case 1:
+                num = input("Please insert a number: ")
+                pattern = r'^\d+$'
+                valid = re.match(pattern, num)
+
+                if not valid:
+                    print("Error")
+                    continue
+
+                num = int(num)
+                push(stack, num)
+                print(str(num) + " inserted!")
+            case 2:
+                out_num = pop(stack)
+                if out_num is not None:
+                    print("You got:", out_num)
+            case 3:
+                print_stack(stack)
+            case _:
+                print("Not valid choice")
+                pass
 
 
 if __name__ == "__main__":
