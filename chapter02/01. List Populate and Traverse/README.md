@@ -54,6 +54,9 @@ This script can be run directly in any Python environment. Follow these steps:
 
 Running the script demonstrates various list operations, helping you explore and understand their functionality. The output will include initial list population, iteration examples, and more, offering hands-on learning about Python list operations.
 
+## 📢 Stay Updated
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 

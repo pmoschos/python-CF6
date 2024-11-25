@@ -47,13 +47,16 @@ for item in bag:
 ## Installation and Setup 🚀
 No installation is required, as the script can be run directly from any Python-enabled environment:
 1. Ensure Python 3.x is installed on your machine.
-2. Save the script as `06_set_operations_demo.py`.
+2. Save the script as `08_set_operations_demo.py`.
 3. Open a terminal or command prompt.
-4. Navigate to the directory containing `06_set_operations_demo.py`.
-5. Run the script with: `python 06_set_operations_demo.py`.
+4. Navigate to the directory containing `08_set_operations_demo.py`.
+5. Run the script with: `python 08_set_operations_demo.py`.
 
 ## Usage Example 📋
 Execute the script to see how set operations are performed in the console. This will help you understand the practical applications of set management in Python programming, particularly in situations where item uniqueness is crucial.
+
+## 📢 Stay Updated
+Be sure to ⭐ this repository to keep up with updates and new learning materials!
 
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).

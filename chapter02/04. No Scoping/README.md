@@ -62,6 +62,9 @@ This script can be run directly in any Python environment. Follow these steps:
 
 Executing the script generates a list of 10 random integers between 1 and 100. It then identifies and displays the last even number from the list, along with the final element of the list.
 
+## 📢 Stay Updated
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 

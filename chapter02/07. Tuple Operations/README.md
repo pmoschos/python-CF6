@@ -70,6 +70,9 @@ This script can be run directly in any Python environment. Follow these steps:
 
 Executing the script showcases tuple creation, iteration, unpacking, and modification by type conversion. The outputs demonstrate how to work with tuples efficiently while highlighting Python’s flexibility with immutable data structures.
 
+## 📢 Stay Updated
+Be sure to ⭐ this repository to keep up with updates and new learning materials!
+
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 

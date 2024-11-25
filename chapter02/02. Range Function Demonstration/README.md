@@ -40,8 +40,10 @@ This script can be run directly in any Python environment. Follow these steps:
 5. Run the script with the command: `python 02_nested_loops_demo.py`.
 
 ## Usage Example 📋
-
 Executing the script will generate a formatted multiplication table for numbers 1 through 3, each multiplied by numbers 1 through 10. It provides an excellent visualization of nested loop functionality in Python.
+
+## 📢 Stay Updated
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).

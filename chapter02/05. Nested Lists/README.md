@@ -77,6 +77,9 @@ This script can be run directly in any Python environment. Follow these steps:
 
 Executing the script demonstrates how to work with lists and nested lists effectively. It outputs the elements of the main list, showcases nested list indexing, and identifies the last even number within a nested list.
 
+## 📢 Stay Updated
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 

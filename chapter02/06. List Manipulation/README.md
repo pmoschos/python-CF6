@@ -85,6 +85,9 @@ This script can be run directly in any Python environment. Follow these steps:
 
 Executing the script demonstrates various list operations step-by-step, with outputs showcasing the state of the list after each modification. It’s an excellent way to gain hands-on experience with Python’s list methods.
 
+## 📢 Stay Updated
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 

@@ -64,7 +64,6 @@ Hello Coding Factory
 ```
 
 ## 📢 Stay Updated
-
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
 ## 📄 License
