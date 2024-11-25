@@ -19,39 +19,44 @@ Python Learning Scripts offers a practical approach to learning Python by focusi
 
 <table>
   <tr>
-    <td>01. <a href="" title="Demonstrates how to create and traverse lists in Python, an essential skill for managing collections of data.">List Population and Traversal</a></td>
-    <td>02. <a href="" title="Shows how to use the range() function for generating sequences of numbers, a fundamental tool in loop control structures.">Range Function Demonstration</a></td>
-    <td>03. <a href="" title="Illustrates the use of for-loops for iterating over sequences, including examples with sales data.">For Loops with Sales Data</a></td>
+    <td>01. <a href="" title="The script demonstrates how to populate a list, iterate over it to read values and indices, and emphasizes the behavior of loop variables in Python.">List Populate and Travere</a></td>
+    <td>02. <a href="" title="The script demonstrates how to use nested loops to iterate over multiple ranges and perform operations at each iteration, showcasing a multiplication table for different numbers.">Range Function Demonstration</a></td>
+    <td>03. <a href="" title="Illustrates the use of for-loops for iterating over sequences, including examples with sales data.">For Loops with Lists</a></td>
   </tr>
   <tr>
-    <td>04. <a href="" title="Covers various list operations such as adding, removing, and modifying elements, crucial for effective data handling.">List Manipulation</a></td>
-    <td>05. <a href="" title="Introduces tuple operations and explains their immutability, useful for understanding data structures that should not change.">Tuple Operations</a></td>
-    <td>06. <a href="" title="Focuses on set operations, highlighting the uniqueness of elements and common use cases such as membership testing.">Set Operations</a></td>
+    <td>04. <a href="" title="No Scoping in for loop and in if_else statements">No Scoping Demonstration </a></td>
+    <td>05. <a href="" title="This script introduces the concept of lists containing various data types.">Nested List Demonstration</a></td>
+    <td>06. <a href="" title="This script covers essential operations for manipulating Python lists.">List Operations</a></td>
   </tr>
   <tr>
-    <td>07. <a href="" title="Explores CRUD (Create, Read, Update, Delete) operations on dictionaries, a key-value store crucial for efficient data retrieval.">Dictionary CRUD Operations</a></td>
-    <td>08. <a href="" title="Demonstrates how to define and use functions in Python, using a greeting example to illustrate basic function concepts.">Greeting Function</a></td>
-    <td>09. <a href="" title="A comprehensive example combining multiple concepts into a single application script.">Comprehensive Application Script</a></td>
+    <td>07. <a href="" title="This script illustrates fundamental operations with tuples in Python.">Tuple Operations</a></td>
+    <td>08. <a href="" title="This script showcases various methods for manipulating sets in Python.">Set Operations</a></td>
+    <td>09. <a href="" title="This script showcases various methods for manipulating dictionaries in Python.">Dictionary CRUD Functions</a></td>
   </tr>
   <tr>
-    <td>10. <a href="" title="Calculates averages from a list of numbers, demonstrating statistical operations in Python.">Average Calculation</a></td>
-    <td>11. <a href="" title="Introduces optional parameters in function definitions, enhancing flexibility and usability of functions.">Optional Parameters in Functions</a></td>
-    <td>12. <a href="" title="Explains the use of *args and **kwargs in functions to handle variable numbers of arguments.">Variable Arguments in Functions</a></td>
+    <td>10. <a href="" title="This script provides an example of using Python dictionaries with diverse key-value pairs.">Dictionary Operations</a></td>
+    <td>11. <a href="" title="This script showcases a simple Python function designed to print a greeting message to a specific place.">Greeting Function</a></td>
+    <td>12. <a href="" title="This script demonstrates how to use functions imported from another module in a Python application.">Application Scripts</a></td>
   </tr>
   <tr>
-    <td>13. <a href="" title="Prints a list of cities using loops and conditionals, demonstrating control flow and output formatting.">Printing Cities</a></td>
-    <td>14. <a href="" title="Uses variable arguments to calculate the average, showcasing flexibility in function definitions.">Variable Arguments Average Calculation</a></td>
-    <td>15. <a href="" title="A simple demonstration of an empty function to illustrate function structure and placeholder use.">Empty Function Demonstration</a></td>
+    <td>13. <a href="" title="This script explores Python's truthy and falsy values.">Truthy and Falsy Values</a></td>
+    <td>14. <a href="" title="This script showcases a function that formats dates into a standard 'dd/mm/yyyy' string format.">Date Formatting Function</a></td>
+    <td>15. <a href="" title="This script showcases the use of the `*args` feature in Python to handle a variable number of arguments in a function.">Function with Variable Arguments</a></td>
   </tr>
   <tr>
-    <td>16. <a href="" title="Implements a basic stack data structure using a list, demonstrating LIFO (Last In, First Out) principles.">Stack Implementation</a></td>
-    <td>17. <a href="" title="Introduces object-oriented programming by defining a Student class, encapsulating attributes and methods.">Student Class</a></td>
-    <td>18. <a href="" title="Defines a Point class to represent coordinates in a 2D space, illustrating basic class creation and usage.">Point Class</a></td>
+    <td>16. <a href="" title="This script showcases a versatile function that prints a list of city names with customizable separators and end characters.">City Printing Function</a></td>
+    <td>17. <a href="" title="This script showcases a flexible function that calculates the average of any number of numerical inputs and formats the result to two decimal places.">Average Calculation Function</a></td>
+    <td>18. <a href="" title="This script showcases various methods for manipulating a list used as a stack in Python, including pushing, popping, and viewing elements.">Stack Operations</a></td>
   </tr>
   <tr>
-    <td>19. <a href="" title="Enhances the Point class with properties to manage attribute access, showing advanced class features.">Point Class with Properties</a></td>
-    <td>20. <a href="" title="Further enriches the Point class with additional methods and attributes, providing a comprehensive example of class development.">Enriched Point Class</a></td>
-    <td>21. <a href="" title="Demonstrates inheritance in Python by creating a subclass that extends the functionality of a base class.">Class Inheritance</a></td>
+    <td>19. <a href="" title="This script illustrates various ways to compare strings in Python, including traditional and Pythonic approaches.">String Comparison</a></td>
+    <td>20. <a href="" title="This script showcases how to define and utilize a class in Python, using a simple `Student` class as an example.">Object-Oriented Programming</a></td>
+    <td>21. <a href="" title="This script showcases how to define and utilize a class in Python, using the `Point` class as an example to demonstrate object-oriented programming in handling 2D space calculations.">Class for 2D Point</a></td>
+  </tr>
+  <tr>
+    <td>22. <a href="" title="This script introduces a `Point` class, showcasing advanced features of Python classes.">Magic Methods</a></td>
+    <td>23. <a href="" title="This script showcases advanced concepts in object-oriented programming, focusing on attribute visibility and method accessibility in Python">Inheritance and Encapsulation</a></td>
+    <td>24. <a href="" title="This script showcases how multiple inheritance can be implemented in Python through a `WorkingStudent` class that inherits from `Person`, `Worker`, and `Student`.">Multiple Inheritance</a></td>
   </tr>
 </table>
 

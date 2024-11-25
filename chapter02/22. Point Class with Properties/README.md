@@ -1,4 +1,4 @@
-# Python Class Demonstration: `Point` with Special Methods
+# Python Class Demonstration: `Point` with Magic Methods
 
 Welcome to the Python `Point` Class Demonstration! This script introduces a `Point` class, showcasing advanced features such as encapsulation, class-level attributes, operator overloading, and property management. It’s an excellent guide for understanding object-oriented programming (OOP) in Python.
 
