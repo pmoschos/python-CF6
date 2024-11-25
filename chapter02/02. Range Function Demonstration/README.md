@@ -43,6 +43,14 @@ This script can be run directly in any Python environment. Follow these steps:
 
 Executing the script will generate a formatted multiplication table for numbers 1 through 3, each multiplied by numbers 1 through 10. It provides an excellent visualization of nested loop functionality in Python.
 
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
+
+## Contact 📧
+Panagiotis Moschos - pan.moschos86@gmail.com
+
+🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 ---
 <h1 align="center">Happy Coding 👨‍💻</h1>
 

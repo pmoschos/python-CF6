@@ -148,6 +148,13 @@ This script can be run directly in any Python environment. Follow these steps:
 
 Executing the script provides a comprehensive walkthrough of various loop constructs and their applications. The output will include range demonstrations, conditional flows, nested loop multiplication tables, and membership checks in lists.
 
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
+## Contact 📧
+Panagiotis Moschos - pan.moschos86@gmail.com
+
+🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 ---
 <h1 align="center">Happy Coding 👨‍💻</h1>
 
