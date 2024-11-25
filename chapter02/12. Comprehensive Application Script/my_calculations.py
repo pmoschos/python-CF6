@@ -9,7 +9,7 @@ def main():
     print("result:", result)
     print(__name__) # ? __main__ ?
 
-if __name__ == "__main__":
-    main()
+main()
 
-# main()
+#if __name__ == "__main__":
+#    main()
