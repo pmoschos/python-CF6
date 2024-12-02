@@ -73,22 +73,22 @@ Execute the script and enter a positive integer when prompted. The script will c
 
 ## 📢 Stay Updated
 
-Be sure to ⭐ this repository to keep up with updates and new learning materials!
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
 ## 📄 License
-
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
-## Contact 📧
 
+## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
 ---
-
 <h1 align=center>Happy Coding 👨‍💻 </h1>
 
 <p align="center">
-  Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
+  Made with ❤️ by 
+  <a href="https://www.linkedin.com/in/panagiotis-moschos" target="_blank">
+  Panagiotis Moschos</a> (https://github.com/pmoschos)
 </p>

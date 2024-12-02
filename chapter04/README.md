@@ -87,5 +87,7 @@ Panagiotis Moschos - pan.moschos86@gmail.com
 <h1 align=center>Happy Coding 👨‍💻 </h1>
 
 <p align="center">
-  Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
+  Made with ❤️ by 
+  <a href="https://www.linkedin.com/in/panagiotis-moschos" target="_blank">
+  Panagiotis Moschos</a> (https://github.com/pmoschos)
 </p>
