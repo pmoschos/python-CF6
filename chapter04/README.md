@@ -1,6 +1,6 @@
 # 🐍 Advanced Python: Functions, Type Hints, and Recursive Algorithms
 
-![Total Views](https://views.whatilearened.today/views/github/yourusername/python-educational-scripts.svg) ![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/python-cf6) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/python-CF6.svg) ![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/python-cf6) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Overview 🌟
 Welcome to the Advanced Python Scripts repository, a comprehensive collection of Python scripts designed for educators and students. This repository serves as a resource for mastering advanced Python concepts through hands-on examples and challenges.
