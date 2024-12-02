@@ -18,8 +18,8 @@ Python Learning Scripts offers a practical approach to learning Python by focusi
 ## 🐍 Python Chapters 📄
 01. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter01" title="Chapter 01">Chapter 01 - Introduction to Python: A Comprehensive Guide to Data Types, Operations, and User Interactions</a></td>
 02. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter02" title="Chapter 02">Chapter 02 - Intermediate Python: Data Structures, Functions, and Object-Oriented Programming</a></td>
-03. <a href="" title="Chapter 03">Chapter 03 - Advanced Python: Object Handling, Algorithms, and Applications</a></td>
-04. <a href="" title="Chapter 04">Chapter 04 - Mastering List Manipulation: Techniques for Efficient Data Handling and Transformation</a></td>
+03. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter03" title="Chapter 03">Chapter 03 - Advanced Python: Object Handling, Algorithms, and Applications</a></td>
+04. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter04" title="Chapter 04">Chapter 04 - Mastering List Manipulation: Techniques for Efficient Data Handling and Transformation</a></td>
 05. <a href="" title="Chapter 05">Chapter 05 - Advanced Function Techniques and Applications</a></td>
 06. <a href="" title="Chapter 06">Chapter 06 - Database Operations with MySQL</a></td>
 07. <a href="" title="Chapter 07">Chapter 07 - Practical Examples Testing for Mastering Python</a></td>
