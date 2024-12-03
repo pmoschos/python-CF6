@@ -119,24 +119,18 @@ Special thanks to **ANTONIOY IOANNIS** ([GitHub Profile](https://github.com/Anto
 
 ## 📢 Stay Updated
 
-Be sure to ⭐ this repository to keep up with updates and new learning materials!
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
----
-
-## 👍 License
-
+## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
----
 
 ## Contact 📧
+Panagiotis Moschos - pan.moschos86@gmail.com
 
-**Panagiotis Moschos**  
-Email: pan.moschos86@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/panagiotis-moschos) | [GitHub](https://github.com/pmoschos)
+🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
 ---
-
 <h1 align="center">Happy Coding 👨‍💻</h1>
 
 <p align="center">
