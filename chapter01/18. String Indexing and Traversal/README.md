@@ -111,7 +111,7 @@ Execute the script to see how string indexing, immutability, and iteration are p
 
 ---
 
-## Acknowledgments
+## 🌟 Acknowledgments
 
 Special thanks to **ANTONIOY IOANNIS** ([GitHub Profile](https://github.com/AntoniouIoannis)) for his valuable contributions to the project.
 
