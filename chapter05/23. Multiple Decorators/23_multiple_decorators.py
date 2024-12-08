@@ -1,3 +1,5 @@
+import time
+
 def log_calls(func):
     """
     A decorator that logs the function call.
@@ -7,48 +9,39 @@ def log_calls(func):
         return func(*args, **kwargs)
     return wrapper
 
-import time
-
 def measure_time(func):
     """
     A decorator that measures the execution time of the function.
     """
     def wrapper(*args, **kwargs):
-        start_time = time.perf_counter() # .time()
+        start_time = time.perf_counter()
         result = func(*args, **kwargs)
-        end_time = time.perf_counter() # .time()
+        end_time = time.perf_counter()
         print(f"Execution time of '{func.__name__}': {end_time - start_time:.6f} seconds")
         return result
     return wrapper
 
-
 # The decorators are applied bottom-to-top (@measure_time first, then @log_calls).
 # The execution is top-to-bottom (@log_calls executes first, then @measure_time).
 @log_calls
-@measure_time 
-def fibonacci(n):
+@measure_time
+def say_hello(name):
     """
-    Return the nth Fibonacci number.
+    A simple function that returns a greeting.
     
     Args:
-    n (int): The position in the Fibonacci sequence.
+    name (str): The name to greet.
     
     Returns:
-    int: The nth Fibonacci number.
+    str: The greeting message.
     """
-    if n <= 1:
-        return n
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
-
-
+    time.sleep(1)  # Simulate some processing delay
+    return f"Hello, {name}!"
 
 def main():
     # Using the function with multiple decorators
-    print(fibonacci(20))
+    print(say_hello("Alice"))
+    print(say_hello("Bob"))
 
 if __name__ == '__main__':
     main()
-
-
-

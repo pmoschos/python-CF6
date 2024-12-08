@@ -74,10 +74,10 @@ if __name__ == '__main__':
 No installation is required, as the script can be run directly from any Python-enabled environment:
 
 1. Ensure Python 3.x is installed on your machine.
-2. Save the script as `22_functools_lru_cache.py`.
+2. Save the script as `22_lru_func_demo.py`.
 3. Open a terminal or command prompt.
-4. Navigate to the directory containing `22_functools_lru_cache.py`.
-5. Run the script with: `python 22_functools_lru_cache.py`.
+4. Navigate to the directory containing `22_lru_func_demo.py`.
+5. Run the script with: `python 22_lru_func_demo.py`.
 
 ## Usage Example 📋
 Execute the script to see how LRU caching optimizes the calculation of Fibonacci numbers. The script will print messages indicating cache hits and calculations, followed by the first 10 Fibonacci numbers.

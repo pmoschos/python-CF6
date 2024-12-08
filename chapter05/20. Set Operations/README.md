@@ -11,35 +11,46 @@ The script defines two sets and performs several operations to find common eleme
 ```python
 def main():
     """
-    Main function to demonstrate set operations in Python.
+    Demonstrates set operations.
     """
-    # Define two sets
-    bag1 = {"A1", "A2", "A3", "A4", "BA1"}
-    bag2 = {"A1", "A2", "B3", "B4", "BB2"}
+    # Define two sets of products available in two different stores
+    store_a_products = {"Apples", "Bananas", "Cherries", "Dates", "Watermelons"}
+    store_b_products = {"Bananas", "Cherries", "Figs", "Grapes", "Melons"}
 
-    # Find common elements (intersection) of bag1 and bag2
-    common_elements = bag1 & bag2
+    # Find common products (intersection) available in both stores
+    common_products = store_a_products & store_b_products
+    print("Products available in both Store A and Store B:", common_products)
     # Alternatively, using the intersection method
-    common_elements = bag1.intersection(bag2)
-    print("Common elements of bag1 and bag2:", common_elements)
+    common_products = store_a_products.intersection(store_b_products)
+    print("Products available in both Store A and Store B:", common_products)
 
-    # Find all elements (union) of bag1 and bag2
-    all_the_elements = bag1 | bag2
+    # Find all unique products (union) across both stores
+    all_products = store_a_products | store_b_products
+    print("All unique products across Store A and Store B:", all_products)
     # Alternatively, using the union method
-    all_the_elements = bag1.union(bag2)
-    print("All elements of bag1 and bag2:", all_the_elements)
+    all_products = store_a_products.union(store_b_products)
+    print("All unique products across Store A and Store B:", all_products)
 
-    # Find elements in bag1 but not in bag2 (difference)
-    diff1 = bag1 - bag2
+    # Find products available in Store A but not in Store B (difference)
+    store_a_exclusive = store_a_products - store_b_products
+    print("Products available only in Store A:", store_a_exclusive)
     # Alternatively, using the difference method
-    diff1 = bag1.difference(bag2)
-    print("Elements in bag1 but not in bag2:", diff1)
+    store_a_exclusive = store_a_products.difference(store_b_products)
+    print("Products available only in Store A:", store_a_exclusive)
 
-    # Find elements that are in either bag1 or bag2 but not both (symmetric difference)
-    diff2 = bag1 ^ bag2
+    # Find products available in Store B but not in Store A (difference)
+    store_b_exclusive = store_b_products - store_a_products
+    print("Products available only in Store B:", store_b_exclusive)
+    # Alternatively, using the difference method
+    store_b_exclusive = store_b_products.difference(store_a_products)
+    print("Products available only in Store B:", store_b_exclusive)
+
+    # Find products that are in either Store A or Store B but not in both (symmetric difference)
+    unique_to_either_store = store_a_products ^ store_b_products
+    print("Products available in either Store A or Store B but not both:", unique_to_either_store)
     # Alternatively, using the symmetric_difference method
-    diff2 = bag1.symmetric_difference(bag2)
-    print("Elements in either bag1 or bag2 but not both:", diff2)
+    unique_to_either_store = store_a_products.symmetric_difference(store_b_products)
+    print("Products available in either Store A or Store B but not both:", unique_to_either_store)
 
 if __name__ == "__main__":
     main()
