@@ -11,10 +11,19 @@ is_raining = True
 hello_message = "Hello Coding Factory"
 
 # Print individual variables to the console
+print("Print individual variables to the console.")
 print(num)
 print(height)
 print(is_raining)
 print(hello_message)
+
+print("--------------------")
+# Print individual types of the variables to the console
+print("Print individual types of the variables to the console.")
+print("type(num) is :", type(num))
+print("type(height) is :", type(height))
+print("type(is_raining) is :", type(is_raining))
+print("type(hello_message) is :", type(hello_message))
 
 # Print a separator to distinguish different outputs
 print("--------------------")
