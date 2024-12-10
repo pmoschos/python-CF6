@@ -19,7 +19,7 @@ print(hello_message)
 
 print("--------------------")
 # Print individual types of the variables to the console
-print("Print individual types of the variables to the console.")
+print("Print individual's types of the variables to the console.")
 print("type(num) is :", type(num))
 print("type(height) is :", type(height))
 print("type(is_raining) is :", type(is_raining))
