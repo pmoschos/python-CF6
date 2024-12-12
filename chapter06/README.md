@@ -50,7 +50,7 @@ To get started with Database Operations:
 1. Ensure Python 3.x is installed on your machine.
 2. Ensure MySQL is installed and running on your machine.
 3. Install the `mysql-connector-python` package using `pip install mysql-connector-python`.
-4. Clone the repository: `git clone https://github.com/pmoschos/python_cf5`
+4. Clone the repository: `git git clone https://github.com/pmoschos/python-CF6`
 5. Navigate to the script of interest.
 6. Open a terminal or command prompt.
 7. Refer to the comments within the script for detailed instructions.
