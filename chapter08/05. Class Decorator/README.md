@@ -1,4 +1,4 @@
-# Instance Counter Decorator Script
+# 🔢 Instance Counter Decorator Script ♻️
 
 This Python script demonstrates how to use a decorator to add an instance counter to a class. It tracks the number of active instances dynamically and adjusts the count when instances are created or destroyed.
 

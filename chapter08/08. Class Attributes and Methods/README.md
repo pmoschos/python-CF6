@@ -1,4 +1,4 @@
-# Student Class Demonstration Script
+# 🎓 Student Class Demonstration Script 🧑‍🏫
 
 Welcome to the Student Class Demonstration Script! This script showcases how to define a Python class with attributes and methods to manage student information effectively. The script includes class-level attributes, instance methods for updating and displaying student information, and functions for exploring class-level attributes and methods dynamically.
 

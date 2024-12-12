@@ -1,4 +1,4 @@
-# Method Timer Decorator Example
+# ⏱️ Method Timer Decorator Example ⚙️
 
 Welcome to the Method Timer Decorator Example Script! This Python script demonstrates how to use decorators to log the execution time of all methods in a class. It applies the decorator to a `Calculator` class to measure and log the time taken by its `add` and `multiply` methods.
 

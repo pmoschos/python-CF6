@@ -1,4 +1,4 @@
-# Understanding @classmethod and @staticmethod with Employee Class
+# 🧑‍💼 Understanding @classmethod and @staticmethod with Employee Class 📚
 
 This Python script demonstrates the usage of `@classmethod` and `@staticmethod` in the context of an `Employee` class. It showcases how these methods differ and their specific use cases.
 

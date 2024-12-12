@@ -1,4 +1,4 @@
-# Python Learning Scripts 🐍
+# 🐍 Python Learning Scripts 🐍
  
 ![Total Views](https://views.whatilearened.today/views/github/pmoschos/python-CF6.svg)![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/python-CF6) ![License](https://img.shields.io/badge/license-MIT-green.svg)
  
@@ -20,11 +20,12 @@ Python Learning Scripts offers a practical approach to learning Python by focusi
 02. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter02" title="Chapter 02">Chapter 02 - Intermediate Python: Data Structures, Functions, and Object-Oriented Programming</a></td>
 03. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter03" title="Chapter 03">Chapter 03 - Advanced Python: Object Handling, Algorithms, and Applications</a></td>
 04. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter04" title="Chapter 04">Chapter 04 - Mastering List Manipulation: Techniques for Efficient Data Handling and Transformation</a></td>
-05. <a href="" title="Chapter 05">Chapter 05 - Advanced Function Techniques and Applications</a></td>
-06. <a href="" title="Chapter 06">Chapter 06 - Database Operations with MySQL</a></td>
-07. <a href="" title="Chapter 07">Chapter 07 - Practical Examples Testing for Mastering Python</a></td>
-08. <a href="" title="Chapter 07">Chapter 08 - ...</a></td>
-09. <a href="" title="Chapter 07">Chapter 09 - ...</a></td>
+05. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05" title="Chapter 05">Chapter 05 - Advanced Function Techniques and Applications</a></td>
+06. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter06" title="Chapter 06">Chapter 06 - Database Operations with MySQL</a></td>
+07. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter07" title="Chapter 07">Chapter 07 - Practical Examples Testing for Mastering Python</a></td>
+08. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08" title="Chapter 07">Chapter 08 - Python Advanced Examples</a></td>
+09. <a href="" title="Chapter 09">Chapter 09 - ...</a></td>
+10. <a href="" title="Chapter 10">Chapter 10 - ...</a></td>
  
 ### Educational Value 🎓
 - Code snippets and scripts for direct classroom use

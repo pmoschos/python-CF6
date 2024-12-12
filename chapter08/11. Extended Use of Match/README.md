@@ -1,4 +1,4 @@
-# Message Handler Simulation Using 'match' Statement
+# ✉️ Message Handler Simulation Using 'match' Statement 🤝
 
 Welcome to the Message Handler Simulation Script! This Python script demonstrates how to use the `match` statement introduced in Python 3.10 for pattern matching. The program processes various types of messages, showcasing the flexibility and expressiveness of the `match` statement.
 

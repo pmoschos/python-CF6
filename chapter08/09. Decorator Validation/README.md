@@ -1,4 +1,4 @@
-# Person Class with Validation Decorator
+# ✅ Person Class with Validation Decorator 🧑‍⚖️
 
 Welcome to the Person Class Validation Example Script! This Python script demonstrates the use of a decorator to add validation logic for attributes during class initialization. It specifically checks that the `age` attribute is non-negative when creating instances of the `Person` class.
 

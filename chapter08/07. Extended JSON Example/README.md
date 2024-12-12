@@ -1,4 +1,4 @@
-# JSON Serialization and Object Representation in Python
+# 🗂️ JSON Serialization and Object Representation in Python 💾
 
 This script demonstrates the creation of a JSON serialization decorator, `add_json_support`, which enables Python classes to easily serialize their attributes into JSON format. The script highlights handling of non-serializable types like `date` and `timedelta` while offering practical examples with `Product` and `Student` classes.
 

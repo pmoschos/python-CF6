@@ -1,4 +1,4 @@
-# Server Connection Management Script
+# 🌐 Server Connection Management Script 🔌
 
 This Python script demonstrates the management of server connections using a class-based approach. It tracks active connections and adjusts the count dynamically as connections are created and destroyed.
 

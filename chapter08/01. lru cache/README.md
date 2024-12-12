@@ -1,4 +1,4 @@
-# Fibonacci with Cache and Logging Script
+# 🌀 Fibonacci with Cache and Logging Script ✨
 
 This Python script demonstrates an enhanced implementation of the Fibonacci sequence calculation using `functools.lru_cache` with added functionality for professional logging of cache hits and misses.
 

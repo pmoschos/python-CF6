@@ -1,4 +1,4 @@
-# Geometric Shapes Area Calculation Using 'match'
+# 📐 Geometric Shapes Area Calculation Using 'match' 🖋️
 
 Welcome to the Geometric Shapes Area Calculation Script! This Python script demonstrates how to use the `match` statement to calculate areas of various geometric shapes. The program supports `Circle`, `Rectangle`, and `Triangle` classes, and uses pattern matching to identify and handle each shape appropriately.
 

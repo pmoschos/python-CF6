@@ -1,4 +1,4 @@
-# Student Management System Script
+# 🎓 Student Management System Script 📊
 
 This Python script demonstrates a comprehensive student management system. It includes features to enroll and drop courses, calculate student age, and manage student records efficiently.
 

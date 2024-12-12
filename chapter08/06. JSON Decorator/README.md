@@ -1,4 +1,4 @@
-# JSON Support Decorator Script
+# 📄 JSON Support Decorator Script 🔧
 
 This Python script demonstrates the use of a decorator to add JSON serialization support to a class. The `add_json_support` decorator adds a `to_json` method to the target class, enabling easy conversion of its attributes to a JSON string.
 
