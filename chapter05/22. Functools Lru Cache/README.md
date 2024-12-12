@@ -82,7 +82,7 @@ No installation is required, as the script can be run directly from any Python-e
 ## Usage Example 📋
 Execute the script to see how LRU caching optimizes the calculation of Fibonacci numbers. The script will print messages indicating cache hits and calculations, followed by the first 10 Fibonacci numbers.
 
-📢 Stay Updated
+## 📢 Stay Updated
 Be sure to ⭐ this repository to keep up with updates and new learning materials!
 
 ## 📄 License
