@@ -18,43 +18,43 @@ This repository contains a series of Python scripts focused on different coding 
 
 <table>
   <tr>
-    <td>01. <a href="https://github.com/pmoschos/python-CF6/tree/main/01.%20Lru%20Cache" title="Learn about the LRU Cache mechanism.">Lru Cache</a></td>
+    <td>01. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08/01.%20lru%20cache" title="Learn about the LRU Cache mechanism.">Lru Cache</a></td>
   </tr>
   <tr>
-    <td>02. <a href="https://github.com/pmoschos/python-CF6/tree/main/02.%20ClassMethod%20and%20StaticMethod" title="Understand class and static methods in Python.">ClassMethod and StaticMethod</a></td>
+    <td>02. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08/02.%20ClassMethod%20and%20StaticMethod" title="Understand class and static methods in Python.">ClassMethod and StaticMethod</a></td>
   </tr>
   <tr>
-    <td>03. <a href="https://github.com/pmoschos/python-CF6/tree/main/03.%20Delete%20Function" title="Learn how to implement and understand the delete functionality.">Delete Function</a></td>
+    <td>03. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08/03.%20Delete%20Function" title="Learn how to implement and understand the delete functionality.">Delete Function</a></td>
   </tr>
   <tr>
-    <td>04. <a href="https://github.com/pmoschos/python-CF6/tree/main/04.%20Student%20Enrollment" title="A program demonstrating student enrollment handling.">Student Enrollment</a></td>
+    <td>04. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08/04.%20Student%20Enrollment" title="A program demonstrating student enrollment handling.">Student Enrollment</a></td>
   </tr>
   <tr>
     <td>05. <a href="https://github.com/pmoschos/python-CF6/tree/main/05.%20Class%20Decorator" title="A program to demonstrate decorators applied to classes.">Class Decorator</a></td>
   </tr>
   <tr>
-    <td>06. <a href="https://github.com/pmoschos/python-CF6/tree/main/06.%20JSON%20Decorator" title="Learn about using decorators to modify JSON.">JSON Decorator</a></td>
+    <td>06. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08/06.%20JSON%20Decorator" title="Learn about using decorators to modify JSON.">JSON Decorator</a></td>
   </tr>
   <tr>
-    <td>07. <a href="https://github.com/pmoschos/python-CF6/tree/main/07.%20Extended%20JSON%20Example" title="Extended use cases for JSON decorators.">Extended JSON Example</a></td>
+    <td>07. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08/07.%20Extended%20JSON%20Example" title="Extended use cases for JSON decorators.">Extended JSON Example</a></td>
   </tr>
   <tr>
-    <td>08. <a href="https://github.com/pmoschos/python-CF6/tree/main/08.%20Class%20Attributes%20and%20Methods" title="Learn about class attributes and their methods.">Class Attributes and Methods</a></td>
+    <td>08. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08/08.%20Class%20Attributes%20and%20Methods" title="Learn about class attributes and their methods.">Class Attributes and Methods</a></td>
   </tr>
   <tr>
-    <td>09. <a href="https://github.com/pmoschos/python-CF6/tree/main/09.%20Decorator%20Validation" title="Using decorators to validate input data.">Decorator Validation</a></td>
+    <td>09. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08/08.%20Class%20Attributes%20and%20Methods" title="Using decorators to validate input data.">Decorator Validation</a></td>
   </tr>
   <tr>
-    <td>10. <a href="https://github.com/pmoschos/python-CF6/tree/main/10.%20Time%20Decorator" title="Learn about timing functions with decorators.">Time Decorator</a></td>
+    <td>10. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08/10.%20Time%20Decorator" title="Learn about timing functions with decorators.">Time Decorator</a></td>
   </tr>
   <tr>
-    <td>11. <a href="https://github.com/pmoschos/python-CF6/tree/main/11.%20Extended%20Use%20of%20Match" title="Explore advanced uses of Python's match statement.">Extended Use of Match</a></td>
+    <td>11. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08/11.%20Extended%20Use%20of%20Match" title="Explore advanced uses of Python's match statement.">Extended Use of Match</a></td>
   </tr>
   <tr>
-    <td>12. <a href="https://github.com/pmoschos/python-CF6/tree/main/12.%20Area%20Shapes%20Calculation" title="Calculate areas of shapes using match statements.">Area Shapes Calculation</a></td>
+    <td>12. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08/12.%20Area%20Shapes%20Calculation" title="Calculate areas of shapes using match statements.">Area Shapes Calculation</a></td>
   </tr>
   <tr>
-    <td>13. <a href="https://github.com/pmoschos/python-CF6/tree/main/13.%20Object%20Matching" title="Use match statements for class-based object matching.">Object Matching</a></td>
+    <td>13. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08/13.%20Object%20Matching" title="Use match statements for class-based object matching.">Object Matching</a></td>
   </tr>
 </table>
 
