@@ -60,23 +60,26 @@ This collection focuses on practical applications of advanced Python concepts su
   </tr>
   <tr>
   	<td>25. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/25.%20Dictionary%20Comprehensions" title="Using dictionary comprehensions for efficient dictionary creation and manipulation.">Dictionary Comprehensions</a></td>
-	<td>26. <a href="https://github.com/pmoschos/python-cf65/tree/main/chapter05/26.%20Student%20Grades" title="Managing and processing student grades using various programming techniques.">Student Grades</a></td>
-	<td>27. <a href="https://github.com/pmoschos/python-cf6/tree/main/chapter05/27.%20Sales%20Analysis" title="Analyzing sales data to extract meaningful insights.">Sales Analysis</a></td>
+	<td>26. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/26.%20Count%20Frequencies" title="">Count Frequencies</a></td>
+	<td>27. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/27.%20Student%20Grades%20Calculation" title="">Student Grades Calculation</a></td>
   </tr>
   <tr>
-  	<td>28. <a href="https://github.com/pmoschos/python-cf6/tree/main/chapter05/28.%20Property%20Function" title="Utilizing property decorators to manage attribute access in classes.">Property Function</a></td>
-	<td>29. <a href="https://github.com/pmoschos/python-cf6/tree/main/chapter05/29.%20Point%20Class" title="Creating a class to represent and manipulate points in 2D space.">Point Class</a></td>
-	<td>30. <a href="https://github.com/pmoschos/python-cf6/tree/main/chapter05/30.%20Abstract%20Classes" title="Defining and using abstract classes to enforce method implementation in subclasses.">Abstract Classes</a></td>
+  	<td>28. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/28.%20Find%20Min%20Value" title="">Find Min Value</a></td>
+	<td>29. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/29.%20Sales%20Analysis" title="">Sales Analysis</a></td>
+	<td>30. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/30.%20Property%20Function" title="">Property Function</a></td>
   </tr>
   <tr>
-  	<td>31. <a href="https://github.com/pmoschos/python-cf6/tree/main/chapter05/31.%20Duck%20Typing" title="Demonstrating duck typing principles in Python.">Duck Typing</a></td>
-	<td>32. <a href="https://github.com/pmoschos/python-cf6/tree/main/chapter05/32.%20File%20Handling" title="Reading from and writing to files using Python's file handling capabilities.">File Handling</a></td>
-	<td>33. <a href="https://github.com/pmoschos/python-cf6/tree/main/chapter05/33.%20StaticMethod%20ClassMethod" title="Exploring the differences and uses of static methods and class methods.">StaticMethod ClassMethod</a></td>
+  	<td>31. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/31.%20Point%20Class" title="">Point Class</a></td>
+	<td>32. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/32.%20Hashable%20Point" title="">Hashable Point</a></td>
+	<td>33. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/33.%20Iterable%20Data%20Class" title="">Iterable Data Class</a></td>
   </tr>
   <tr>
-  	<td>34. <a href="https://github.com/pmoschos/python-cf6/tree/main/chapter05/34.%20File%20Demo" title="Demonstrating file operations such as opening, reading, writing, and closing files.">File Demo</a></td>
-	<td>35. <a href="https://github.com/pmoschos/python-cf6/tree/main/chapter05/35.%20Custom%20Exceptions" title="Creating and raising custom exceptions to handle specific error conditions.">Custom Exceptions</a></td>
-	<td>36. <a href="https://github.com/pmoschos/python-cf6/tree/main/chapter05/36.%20Typing%20Module" title="Using the typing module to specify and enforce type hints in Python functions and classes.">Typing Module</a></td>
+  	<td>34. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/34.%20Abstract%20Class" title="">Abstract Class</a></td>
+	<td>35. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/35.%20Duck%20Typing" title="">Duck Typing</a></td>
+	<td>36. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/36.%20File%20Operations" title="">File Operations</a></td>
+  </tr>
+  <tr>
+	<td>37. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/37.%20Custom%20Exceptions" title="">Custom Exceptions</a></td>
   </tr>
 </table>
 
