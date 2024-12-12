@@ -1,4 +1,4 @@
-# Python Class for 2D Point Operations Demonstration
+# 📐 Python Class for 2D Point Operations Demonstration ➕
 
 Welcome to the Python Class for 2D Point Operations Demonstration! This script showcases how to define and utilize a class in Python, using the `Point` class as an example to demonstrate object-oriented programming in handling 2D space calculations. It's an ideal resource for anyone new to Python or those teaching programming concepts related to classes and object interactions.
 

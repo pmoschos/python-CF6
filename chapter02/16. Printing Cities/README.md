@@ -1,4 +1,4 @@
-# Python City Printing Function Demonstration
+# 🏙️ Python City Printing Function Demonstration 🖨️
 
 Welcome to the Python City Printing Function Demonstration! This script showcases a versatile function that prints a list of city names with customizable separators and end characters. It's an excellent resource for anyone learning Python or those teaching programming concepts related to handling variable numbers of arguments and advanced string formatting.
 

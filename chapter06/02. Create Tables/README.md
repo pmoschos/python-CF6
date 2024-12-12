@@ -1,4 +1,4 @@
-# MySQL Connection and Table Creation Script
+# 🗂️ MySQL Connection and Table Creation Script 📝
 
 This Python script demonstrates how to connect to a MySQL database server, select a specific database, and create tables programmatically using the `mysql-connector-python` library.
 

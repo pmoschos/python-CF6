@@ -1,4 +1,4 @@
-# Python Date Formatting Function Demonstration
+# 🗓️ Python Date Formatting Function Demonstration 🔢
 
 Welcome to the Python Date Formatting Function Demonstration! This script showcases a function that formats dates into a standard "dd/mm/yyyy" string format. It's an ideal resource for anyone learning Python or those teaching programming concepts related to handling dates and string formatting.
 

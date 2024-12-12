@@ -1,4 +1,4 @@
-# Python Generic Functions Script
+# 📜 Python Generic Functions Script 🖋️
 
 Welcome to the Python Generic Functions Script! This script demonstrates the use of generic functions with type annotations, providing a robust way to work with sequences and other types in Python.
 

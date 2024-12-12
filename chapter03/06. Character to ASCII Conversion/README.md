@@ -1,4 +1,4 @@
-# Python Character ASCII Value Demonstration
+# 🔡 Python Character ASCII Value Demonstration 🆎
 
 Welcome to the Python Character ASCII Value Demonstration! This script reads characters from the user and prints their ASCII values until the user inputs '#'. It includes two functions that demonstrate different approaches to achieving this task.
 

@@ -1,4 +1,4 @@
-# Filtering and Capitalizing City Names Script
+# ✨ Filtering and Capitalizing City Names Script 🔄
 
 Welcome to the Filtering and Capitalizing City Names Script! This script demonstrates how to filter city names based on their length and capitalize the filtered names using `filter`, `map`, and lambda functions.
 

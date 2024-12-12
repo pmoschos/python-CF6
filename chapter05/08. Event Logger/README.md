@@ -1,4 +1,4 @@
-# Event Logging Script
+# 📝 Event Logging Script 📄
 
 This script demonstrates how to log events with a specified type and additional keyword arguments. Each event is timestamped and can include various attributes provided as keyword arguments.
 

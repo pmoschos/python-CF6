@@ -1,4 +1,4 @@
-# MySQL Connection and Insert Operation Script
+# ✨ MySQL Connection and Insert Operation Script 🔄
 
 This Python script demonstrates how to connect to a MySQL database server, select a specific database, and insert records into a table using the `mysql-connector-python` library.
 

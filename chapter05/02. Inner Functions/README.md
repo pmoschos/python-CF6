@@ -1,4 +1,4 @@
-# Grade Calculation Script
+# 🎓 Grade Calculation Script ✅
 
 Welcome to the Grade Calculation Script! This script calculates the final grade for a student based on their scores in assignments, a midterm exam, and a final exam. It also determines the corresponding letter grade based on the final average score.
 

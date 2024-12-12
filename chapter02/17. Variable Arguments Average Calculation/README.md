@@ -1,4 +1,4 @@
-# Python Average Calculation Function Demonstration
+# 📊 Python Average Calculation Function Demonstration ➗
 
 Welcome to the Python Average Calculation Function Demonstration! This script showcases a flexible function that calculates the average of any number of numerical inputs and formats the result to two decimal places. It's an ideal resource for anyone learning Python or those teaching programming concepts related to arithmetic operations and string formatting.
 

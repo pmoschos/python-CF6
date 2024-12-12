@@ -1,4 +1,4 @@
-# Set Operations in Python
+# 🌀 Set Operations in Python 🔀
 
 This script demonstrates various set operations in Python, including intersection, union, difference, and symmetric difference. These operations are useful for comparing and manipulating sets of data.
 

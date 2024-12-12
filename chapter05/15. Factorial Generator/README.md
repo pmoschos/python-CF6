@@ -1,4 +1,4 @@
-# Factorial Generator Script
+# ✨ Factorial Generator Script 🔄
 
 This script demonstrates how to use a generator function to yield factorials indefinitely. The script uses a generator to calculate and print the factorials of numbers sequentially.
 

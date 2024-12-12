@@ -1,4 +1,4 @@
-# Timing Function Execution
+# 🕒 Timing Function Execution ⏱️
 
 This script demonstrates how to measure the execution time of a function in Python using the `time` module. The example function calculates the sum of numbers from 0 to `n-1` and prints the time taken for the calculation.
 

@@ -1,4 +1,4 @@
-# Transforming and Filtering a List of Grades
+# ✂️ Transforming and Filtering a List of Grades 🎓
 
 This script demonstrates how to use list comprehensions and `map`/`filter` functions to transform and filter a list of grades in Python.
 

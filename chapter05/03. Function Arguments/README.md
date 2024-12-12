@@ -1,4 +1,4 @@
-# Function Arguments Demonstration Script
+# 🔍 Function Arguments Demonstration Script 🔄
 
 Welcome to the Function Arguments Demonstration Script! This script illustrates how to use positional, optional, additional positional (*args), and additional keyword arguments (**kwargs) in a Python function.
 

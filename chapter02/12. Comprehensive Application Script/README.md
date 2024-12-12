@@ -1,4 +1,4 @@
-# Python Main Application Script (`app.py`)
+# 🚀 Python Main Application Script (`app.py`) 🖥️
 
 Welcome to the Python Main Application Script Demonstration! This script demonstrates how to use functions imported from another module in a Python application. It's an ideal resource for anyone new to Python or those teaching programming concepts related to module interaction and function calls.
 

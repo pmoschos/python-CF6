@@ -1,4 +1,4 @@
-# Python Set Operations Demonstration
+# 🛠️ Python Set Operations Demonstration 🔄
 
 Welcome to the Python Set Operations Demonstration! This script showcases various methods for manipulating sets in Python, including adding items, avoiding duplicates, handling errors during item removal, and iterating over sets. It's an ideal resource for anyone new to Python or those teaching programming concepts related to set operations.
 

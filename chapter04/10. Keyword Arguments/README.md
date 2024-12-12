@@ -1,4 +1,4 @@
-# Python Keyword Arguments Filtering Script
+# ✅ Python Keyword Arguments Filtering Script ✂️
 
 Welcome to the Python Keyword Arguments Filtering Script! This script demonstrates how to filter a list of products based on given criteria using keyword arguments.
 

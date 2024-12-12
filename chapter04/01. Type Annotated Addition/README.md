@@ -1,4 +1,4 @@
-# Python Type-Annotated Addition Function
+# 📋 Python Type-Annotated Addition Function ✅
 
 Welcome to the Python Type-Annotated Addition Function script! This script demonstrates the use of type annotations in Python functions to ensure that parameters are of the correct type and to provide useful documentation.
 

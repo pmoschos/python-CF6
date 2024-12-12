@@ -1,4 +1,4 @@
-# Python List Manipulation Script
+# 🔄 Python List Manipulation Script 🛠️
 
 Welcome to the Python List Manipulation Script! This script demonstrates how to manipulate lists in Python, including appending elements to a list and handling lists with mixed data types.
 

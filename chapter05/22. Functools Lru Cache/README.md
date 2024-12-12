@@ -1,4 +1,4 @@
-# Fibonacci Sequence with LRU Cache
+# 🌀 Fibonacci Sequence with LRU Cache 🔄
 
 This script demonstrates the use of the Least Recently Used (LRU) cache in Python to optimize the calculation of Fibonacci numbers. By caching the results of expensive function calls, LRU caching improves performance and reduces redundant calculations.
 

@@ -1,4 +1,4 @@
-# Factorial Calculation Using Reduce Script
+# 🧮 Factorial Calculation Using Reduce Script 🔢
 
 Welcome to the Factorial Calculation Using Reduce Script! This script demonstrates how to calculate the factorial of a given integer using the `reduce` function from the `functools` module along with a lambda function.
 

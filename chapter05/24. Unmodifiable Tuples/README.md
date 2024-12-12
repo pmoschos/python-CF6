@@ -1,4 +1,4 @@
-# Understanding Tuples and Mutability in Python
+# ✨ Understanding Tuples and Mutability in Python 🔄
 
 This script demonstrates the properties of tuples in Python and how the mutability of their elements can be leveraged. Tuples are unmodifiable, but if they contain mutable elements, those elements can be modified.
 

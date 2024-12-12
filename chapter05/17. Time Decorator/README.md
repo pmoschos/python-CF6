@@ -1,4 +1,4 @@
-# Timing Function Execution with Decorators
+# ⏳ Timing Function Execution with Decorators 🔄
 
 This script demonstrates how to measure the execution time of functions in Python using a decorator. The example functions include calculating the sum and average of integers, as well as reversing a string. The decorator adds timing functionality to these functions, allowing us to measure and print the execution time.
 

@@ -1,4 +1,4 @@
-# Python Random Password Generator
+# 🔑 Python Random Password Generator 🗝️
 
 Welcome to the Python Random Password Generator script! This script generates a random password based on the user-specified length. It includes uppercase and lowercase letters, digits, and special characters to ensure a strong and secure password.
 

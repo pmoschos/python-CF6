@@ -1,4 +1,4 @@
-# Python String Comparison Demonstration
+# 🔤 Python String Comparison Demonstration ✅
 
 Welcome to the Python String Comparison Demonstration! This script illustrates various ways to compare strings in Python, including traditional and Pythonic approaches. It’s an excellent resource for understanding string manipulation and conditional logic in Python.
 

@@ -1,4 +1,4 @@
-# Simple Iterator Class in Python
+# 📜 Simple Iterator Class in Python 🔄
 
 This script demonstrates how to create a custom iterator class in Python. The `SimpleIterator` class allows iteration over a list of elements, providing a practical example of implementing the iterator protocol.
 

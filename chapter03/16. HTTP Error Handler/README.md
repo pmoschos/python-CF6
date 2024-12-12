@@ -1,4 +1,4 @@
-# Python HTTP Error Code Handler
+# 🌐 Python HTTP Error Code Handler ❌
 
 Welcome to the Python HTTP Error Code Handler script! This script returns the HTTP error message corresponding to a given error code using the `match` statement. It's an ideal resource for understanding pattern matching and conditional statements in Python.
 

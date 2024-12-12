@@ -1,4 +1,4 @@
-# Python Functions with Variable-Length Arguments Script
+# 🌀 Python Functions with Variable-Length Arguments Script ✨
 
 Welcome to the Python Functions with Variable-Length Arguments Script! This script demonstrates how to define functions that can handle an arbitrary number of arguments, providing flexibility in how values are passed and processed.
 

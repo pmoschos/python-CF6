@@ -1,4 +1,4 @@
-# Logging in Python with File Handlers
+# 📜 Logging in Python with File Handlers 🔧
 
 This script demonstrates how to implement logging in Python using file handlers. It redirects error messages from the console to a log file, providing a practical approach to handling errors in a production environment.
 

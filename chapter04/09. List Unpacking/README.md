@@ -1,4 +1,4 @@
-# Python List Unpacking Script
+# ✂️ Python List Unpacking Script 🔄
 
 Welcome to the Python List Unpacking Script! This script demonstrates various techniques for unpacking elements from a list into variables in Python, providing flexibility in handling list data.
 

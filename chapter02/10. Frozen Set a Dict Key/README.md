@@ -1,4 +1,4 @@
-# Python Dictionary Operations Demonstration
+# 📂 Python Dictionary Operations Demonstration 🔄
 
 Welcome to the Python Dictionary Operations Demonstration! This script provides an example of using Python dictionaries with diverse key-value pairs, including immutable keys and nested data structures. It’s a great starting point for understanding Python’s flexible and powerful dictionary type.
 

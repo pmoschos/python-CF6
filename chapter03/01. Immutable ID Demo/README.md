@@ -1,4 +1,4 @@
-# Python Variable ID Demonstration
+# 🔎 Python Variable ID Demonstration 🆔
 
 Welcome to the Python Variable ID Demonstration! This script showcases how to print the memory addresses (IDs) of different variables in Python, specifically focusing on integer and string interning. It's an ideal resource for anyone new to Python or those teaching programming concepts related to memory management and variable interning.
 

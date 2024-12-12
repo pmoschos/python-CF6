@@ -1,4 +1,4 @@
-# MySQL Connection and Fetch Operation Script
+# 🔍 MySQL Connection and Fetch Operation Script ✨
 
 This Python script demonstrates how to connect to a MySQL database server, select a specific database, and fetch records from a table using the `mysql-connector-python` library.
 

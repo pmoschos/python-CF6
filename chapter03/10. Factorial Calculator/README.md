@@ -1,4 +1,4 @@
-# Python Factorial Calculation
+# 🧮 Python Factorial Calculation 🔢
 
 Welcome to the Python Factorial Calculation script! This script calculates the factorial of a user-specified non-negative integer. It's an ideal resource for understanding loops, mathematical operations, and user input handling in Python.
 

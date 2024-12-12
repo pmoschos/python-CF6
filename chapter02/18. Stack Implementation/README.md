@@ -1,4 +1,4 @@
-# Python Stack Operations Demonstration
+# 🗃️ Python Stack Operations Demonstration 🛠️
 
 Welcome to the Python Stack Operations Demonstration! This script showcases various methods for manipulating a list used as a stack in Python, including pushing, popping, and viewing elements. It's an excellent resource for anyone new to Python or those teaching programming concepts related to stack operations.
 

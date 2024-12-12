@@ -1,4 +1,4 @@
-# Product Calculation Using Reduce Script
+# 🔄 Product Calculation Using Reduce Script ➗
 
 Welcome to the Product Calculation Using Reduce Script! This script demonstrates how to calculate the product of all elements in a list using the `reduce` function from the `functools` module and a lambda function.
 

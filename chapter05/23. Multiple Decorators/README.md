@@ -1,4 +1,4 @@
-# Logging and Timing Function Calls in Python
+# 📜 Logging and Timing Function Calls in Python ⏳
 
 This script demonstrates the use of decorators to log function calls and measure their execution time. By stacking multiple decorators, we can enhance functions with additional behaviors such as logging and timing.
 

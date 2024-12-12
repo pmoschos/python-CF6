@@ -1,4 +1,4 @@
-# Python Loops and Range Demonstration
+# 🔢 Python Loops and Range Demonstration ↔️
 
 Welcome to the Python Loops and Range Demonstration! This script dives into the versatile `range` function and showcases a variety of loop constructs, including nested loops, control flow with `break` and `continue`, and `else` blocks. Additionally, it highlights conditional checks in lists, offering practical insights for Python developers.
 

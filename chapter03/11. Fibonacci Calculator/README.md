@@ -1,4 +1,4 @@
-# Python Fibonacci Number Calculation
+# 🌀 Python Fibonacci Number Calculation 🔄
 
 Welcome to the Python Fibonacci Number Calculation script! This script calculates the nth Fibonacci number based on user input. It's an ideal resource for understanding loops, sequence generation, and user input handling in Python.
 

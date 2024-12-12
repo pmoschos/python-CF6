@@ -1,4 +1,4 @@
-# Python Sum and Product Calculation
+# ➕ Python Sum and Product Calculation ✖️
 
 Welcome to the Python Sum and Product Calculation script! This script calculates the sum and product of all numbers from 1 to a user-specified upper bound. It's an ideal resource for understanding loops, mathematical operations, and user input handling in Python.
 

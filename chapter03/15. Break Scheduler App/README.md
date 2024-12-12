@@ -1,4 +1,4 @@
-# Python Month Check Script
+# 📅 Python Month Check Script 📆
 
 Welcome to the Python Month Check Script! This script checks if a user-provided three-letter month abbreviation is in a predefined list of months. It demonstrates two different ways to perform the check and handle user input in Python.
 

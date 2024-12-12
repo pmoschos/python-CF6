@@ -1,4 +1,4 @@
-# Python Functions with Optional and Default Parameters Script
+# ✨ Python Functions with Optional and Default Parameters Script 🔄
 
 Welcome to the Python Functions with Optional and Default Parameters Script! This script demonstrates how to define functions with optional and default parameters in Python, providing flexibility in how arguments are supplied.
 

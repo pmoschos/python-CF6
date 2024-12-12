@@ -1,4 +1,4 @@
-# Person Class Demo Script
+# 🎓 Person Class Demo Script 🔄
 
 This Python script demonstrates the use of encapsulation, property management, and dynamic attributes using a `Person` class. It showcases how to create and manage properties dynamically while adhering to object-oriented programming principles.
 

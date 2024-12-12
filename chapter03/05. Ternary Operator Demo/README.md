@@ -1,4 +1,4 @@
-# Python Integer Comparison Demonstration
+# 🔢 Python Integer Comparison Demonstration ✅
 
 Welcome to the Python Integer Comparison Demonstration! This script compares two integers provided by the user and prints the result. It also demonstrates the use of ternary operators in Python.
 

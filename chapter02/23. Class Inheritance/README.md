@@ -1,4 +1,4 @@
-# Python Class Inheritance and Encapsulation Demonstration
+# 🛡️ Python Class Inheritance and Encapsulation Demonstration 🔒
 
 Welcome to the Python Class Inheritance and Encapsulation Demonstration! This script showcases advanced concepts in object-oriented programming, focusing on attribute visibility and method accessibility in Python. It's an invaluable resource for anyone learning advanced Python or teaching object-oriented programming principles.
 

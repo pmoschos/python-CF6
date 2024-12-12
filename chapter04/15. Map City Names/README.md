@@ -1,4 +1,4 @@
-# Capitalizing City Names Script
+# 🏙️ Capitalizing City Names Script 🔤
 
 Welcome to the Capitalizing City Names Script! This script demonstrates how to capitalize the first letter of each city name in a list using the `map` function and a lambda function.
 

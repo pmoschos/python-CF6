@@ -1,4 +1,4 @@
-# Point Class Hashing Demo Script
+# 📜 Point Class Hashing Demo Script ✨
 
 This Python script demonstrates the implementation of a `Point` class with custom `__hash__` and `__eq__` methods. It highlights how objects can be used as keys in dictionaries and the behavior of hash-based containers when objects have identical hash values.
 

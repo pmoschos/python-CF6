@@ -1,4 +1,4 @@
-# Python Dictionary CRUD Functions Demonstration
+# 📖 Python Dictionary CRUD Functions Demonstration 🔍
 
 Welcome to the Python Dictionary CRUD Functions Demonstration! This script showcases various methods for manipulating dictionaries in Python, including creating, reading, updating, and deleting elements. It's an ideal resource for anyone new to Python or those teaching programming concepts related to dictionary operations.
 

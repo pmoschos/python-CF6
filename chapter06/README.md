@@ -1,4 +1,4 @@
-# 🐍 Database Operations with MySQL 🐍
+# 📂 Database Operations with MySQL 🔑
 
 ![Total Views](https://views.whatilearened.today/views/github/pmoschos/python-CF6.svg)![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/python-CF6) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 

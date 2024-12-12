@@ -1,4 +1,4 @@
-# Python Function Scope and Parameters Script
+# 📚 Python Function Scope and Parameters Script ✨
 
 Welcome to the Python Function Scope and Parameters Script! This script demonstrates how function parameters and local variables work in Python, including how modifications within a function do not affect the original arguments.
 

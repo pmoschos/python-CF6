@@ -1,4 +1,4 @@
-# Filtering Even Numbers Script
+# 🔎 Filtering Even Numbers Script 🔢
 
 Welcome to the Filtering Even Numbers Script! This script demonstrates how to filter even numbers from a list using a lambda function and the `filter` function.
 

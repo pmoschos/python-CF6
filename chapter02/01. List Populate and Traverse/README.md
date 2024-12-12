@@ -1,4 +1,4 @@
-# Python List CRUD Functions Demonstration
+# 📋 Python List CRUD Functions Demonstration 🔄
 
 Welcome to the Python List CRUD Functions Demonstration! This script showcases various methods for manipulating lists in Python, including creating, reading, updating, and deleting elements. It’s an excellent guide for newcomers to Python or educators teaching fundamental list operations.
 

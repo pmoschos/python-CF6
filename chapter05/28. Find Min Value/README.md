@@ -1,4 +1,4 @@
-# Find Minimum Value Key Script
+# 🔍 Find Minimum Value Key Script 🔑
 
 This Python script demonstrates how to find specific keys in a dictionary based on certain criteria. The example provided identifies the student with the lowest grade, the alphabetically smallest name, and the shortest name by length.
 

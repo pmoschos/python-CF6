@@ -1,4 +1,4 @@
-# Yield: Converts a Simple Function into a Generator
+# 🔄 Yield: Converts a Simple Function into a Generator 🌀
 
 This script demonstrates how to use the `yield` statement to create a generator function in Python. It explains the concept of generator objects and how they preserve state between executions.
 

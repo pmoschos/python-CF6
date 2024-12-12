@@ -1,4 +1,4 @@
-# Fibonacci Sequence Calculation Script
+# 🔄 Fibonacci Sequence Calculation Script 🌀
 
 Welcome to the Fibonacci Sequence Calculation Script! This script demonstrates how to calculate the nth Fibonacci number using a recursive approach.
 

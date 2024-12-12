@@ -1,4 +1,4 @@
-# Python Multiple Inheritance Demonstration
+# 🪢 Python Multiple Inheritance Demonstration 🔀
 
 Welcome to the Python Multiple Inheritance Demonstration! This script showcases how multiple inheritance can be implemented in Python through a `WorkingStudent` class that inherits from `Person`, `Worker`, and `Student`. It’s an excellent resource for understanding class inheritance and combining functionalities.
 

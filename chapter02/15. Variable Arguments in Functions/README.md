@@ -1,4 +1,4 @@
-# Python Function with Variable Arguments Demonstration
+# 🔧 Python Function with Variable Arguments Demonstration ✨
 
 Welcome to the Python Function with Variable Arguments Demonstration! This script showcases the use of the `*args` feature in Python to handle a variable number of arguments in a function. It’s a practical guide to writing flexible and reusable functions.
 

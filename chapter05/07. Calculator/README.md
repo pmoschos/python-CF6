@@ -1,4 +1,4 @@
-# Arithmetic Operations on a List of Numbers
+# 🧮 Arithmetic Operations on a List of Numbers 🔢
 
 This script demonstrates how to generate functions to perform arithmetic operations on a list of numbers. The operations include addition, subtraction, multiplication, and division.
 

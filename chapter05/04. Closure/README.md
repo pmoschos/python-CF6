@@ -1,4 +1,4 @@
-# Department ID Generator Script
+# 📇 Department ID Generator Script 🆔
 
 Welcome to the Department ID Generator Script! This script demonstrates how to generate unique IDs for students based on their department using nested functions and nonlocal variables.
 

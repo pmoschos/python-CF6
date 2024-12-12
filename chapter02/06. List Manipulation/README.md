@@ -1,4 +1,4 @@
-# Python List Operations Demonstration
+# 📋 Python List Operations Demonstration 🔄
 
 Welcome to the Python List Operations Demonstration! This script covers essential operations for manipulating Python lists, such as adding, updating, deleting, and searching for elements. It’s a comprehensive guide for mastering Python’s list methods.
 

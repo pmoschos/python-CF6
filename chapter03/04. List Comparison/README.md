@@ -1,4 +1,4 @@
-# Python List Comparison Demonstration
+# 🔄 Python List Comparison Demonstration 📋
 
 Welcome to the Python List Comparison Demonstration! This script compares two lists for identity and equality. It's an ideal resource for anyone new to Python or those teaching programming concepts related to object identity and equality.
 

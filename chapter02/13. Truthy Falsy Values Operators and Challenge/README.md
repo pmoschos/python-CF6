@@ -1,4 +1,4 @@
-# Python Truthy and Falsy Values Demonstration
+# ✅ Python Truthy and Falsy Values Demonstration ❌
 
 Welcome to the Python Truthy and Falsy Values Demonstration! This script explores Python's truthy and falsy values, conditional expressions, tuple manipulations, and the use of the `enumerate` function. It’s an excellent guide for understanding core Python concepts and practical usage.
 

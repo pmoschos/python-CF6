@@ -1,4 +1,4 @@
-# Counting Frequencies in a List Script
+# 🔢 Counting Frequencies in a List Script 🔄
 
 Welcome to the Counting Frequencies in a List Script! This Python script demonstrates four distinct methods to count the frequency of items in a list, showcasing various approaches to achieve the same goal with different techniques and built-in functionalities.
 

@@ -1,4 +1,4 @@
-# Lambda Function for Power Calculation Script
+# ✨ Lambda Function for Power Calculation Script ➕
 
 Welcome to the Lambda Function for Power Calculation Script! This script demonstrates how to use a lambda function to calculate the power of a number.
 

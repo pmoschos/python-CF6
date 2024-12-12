@@ -1,4 +1,4 @@
-# MySQL Connection and Update Operation Script
+# 🔧 MySQL Connection and Update Operation Script 🔄
 
 This Python script demonstrates how to connect to a MySQL database server, select a specific database, and update records in a table using the `mysql-connector-python` library.
 

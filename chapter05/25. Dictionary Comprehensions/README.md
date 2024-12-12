@@ -1,4 +1,4 @@
-# Dictionary Comprehension in Python
+# 📜 Dictionary Comprehension in Python 🔧
 
 This script demonstrates the use of dictionary comprehension in Python to create dictionaries from lists of numbers. It includes examples of generating dictionaries with numbers and their squares, as well as filtering for even numbers.
 

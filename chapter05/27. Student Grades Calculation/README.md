@@ -1,4 +1,4 @@
-# Average Grade Threshold Script
+# ✅ Average Grade Threshold Script 🎓
 
 This Python script calculates the average grades of students and filters the results to display only those with averages exceeding a user-specified threshold. It is an interactive program with input validation and displays results clearly.
 

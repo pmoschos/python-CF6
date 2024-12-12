@@ -1,4 +1,4 @@
-# Sales Analysis Script
+# 📊 Sales Analysis Script 💰
 
 This Python script performs a comprehensive sales analysis for a business. It includes operations such as calculating monthly sales statistics, applying discounts, determining taxes, and identifying high-value months. The script provides detailed and well-organized outputs for each stage of the analysis.
 

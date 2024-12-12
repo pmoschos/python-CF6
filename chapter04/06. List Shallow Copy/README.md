@@ -1,4 +1,4 @@
-# Python List Shallow Copy Script
+# 🗂️ Python List Shallow Copy Script 📋
 
 Welcome to the Python List Shallow Copy Script! This script demonstrates how to create a shallow copy of a list and how changes to the original list affect the copied list.
 

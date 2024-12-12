@@ -1,4 +1,4 @@
-# Point Class Demo Script
+# 🧭 Point Class Demo Script 📍
 
 This Python script demonstrates the use of the `Point` class, which encapsulates a 2D point with coordinates (x, y). It showcases object-oriented principles such as encapsulation, operator overloading, and property management.
 

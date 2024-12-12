@@ -1,4 +1,4 @@
-# Garage Simulation Using Deque and Class
+# 🚗 Garage Simulation Using Deque and Class 🔄
 
 This script demonstrates how to simulate cars arriving and leaving a garage using Python's `collections.deque` class and object-oriented programming principles. The `deque` class is used for its efficient appending and popping operations, and a `Garage` class is created to manage the cars in the garage.
 

@@ -1,4 +1,4 @@
-# MySQL Connection and Database Creation Script
+# 🌐 MySQL Connection and Database Creation Script 🔄
 
 This Python script demonstrates how to connect to a MySQL database server and create a database programmatically using the `mysql-connector-python` library.
 

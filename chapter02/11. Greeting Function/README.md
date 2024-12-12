@@ -1,4 +1,4 @@
-# Python Greeting Function Demonstration
+# 🖋️ Python Greeting Function Demonstration 🗨️
 
 Welcome to the Python Greeting Function Demonstration! This script showcases a simple Python function designed to print a greeting message to a specific place. It’s a perfect resource for beginners or educators teaching the fundamentals of function definition, parameter handling, and documentation in Python.
 

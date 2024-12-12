@@ -1,4 +1,4 @@
-# File Operations Demo Script
+# 📂 File Operations Demo Script 📄
 
 This Python script demonstrates file handling operations such as reading, creating, updating, and deleting files. It provides reusable functions to perform these operations and ensures proper error handling for robust execution.
 

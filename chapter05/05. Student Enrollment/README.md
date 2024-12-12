@@ -1,4 +1,4 @@
-# Enroll Students Script
+# ✍️ Enroll Students Script 🏫
 
 Welcome to the Enroll Students Script! This script demonstrates how to enroll students in a department with a minimum grade requirement and additional information using variable-length arguments, default values, and keyword arguments.
 

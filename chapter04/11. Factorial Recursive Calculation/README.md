@@ -1,4 +1,4 @@
-# Factorial Calculation Script
+# 🧮 Factorial Calculation Script 🔢
 
 Welcome to the Factorial Calculation Script! This script demonstrates how to calculate the factorial of a given positive integer using a recursive approach.
 

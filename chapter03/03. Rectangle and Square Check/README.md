@@ -1,4 +1,4 @@
-# Python Rectangle Square Check Demonstration
+# 🏷️ Python Rectangle Square Check Demonstration ✅
 
 Welcome to the Python Rectangle Square Check Demonstration! This script checks if a given rectangle is a square based on user input. It's an ideal resource for anyone new to Python or those teaching programming concepts related to conditional statements and user input handling.
 

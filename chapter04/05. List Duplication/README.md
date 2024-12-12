@@ -1,4 +1,4 @@
-# Python List Duplication and Modification Script
+# ✏️ Python List Duplication and Modification Script 📝
 
 Welcome to the Python List Duplication and Modification Script! This script demonstrates how list duplication works in Python and how modifying elements affects the original and duplicated lists.
 

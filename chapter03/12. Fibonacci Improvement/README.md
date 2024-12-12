@@ -1,4 +1,4 @@
-# Python Fibonacci Number Generator
+# ✨ Python Fibonacci Number Generator 🔄
 
 Welcome to the Python Fibonacci Number Generator! This script calculates the nth Fibonacci number based on user input. It's an ideal resource for understanding sequence generation, loops, and user input handling in Python.
 

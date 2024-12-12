@@ -1,4 +1,4 @@
-# DataCollection Class Demo Script
+# 📚 DataCollection Class Demo Script 📂
 
 This Python script demonstrates the implementation and usage of the `DataCollection` class. The class encapsulates a collection of data, providing functionalities like iteration, indexing, slicing, and length calculation, while also offering a string representation for easy debugging.
 

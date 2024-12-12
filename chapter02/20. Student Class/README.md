@@ -1,4 +1,4 @@
-# Python Object-Oriented Programming Demonstration
+# 🏗️ Python Object-Oriented Programming Demonstration 🧩
 
 Welcome to the Python Object-Oriented Programming Demonstration! This script showcases how to define and utilize a class in Python, using a simple `Student` class as an example. It's an excellent resource for anyone new to Python or those teaching programming concepts related to object-oriented programming.
 

@@ -1,4 +1,4 @@
-# Factorial Iterator Script
+# ✨ Factorial Iterator Script 🔢
 
 This script demonstrates how to create a custom iterator class in Python to generate factorials up to a given number. The `FactoIterator` class implements the iterator protocol with `__iter__` and `__next__` methods.
 

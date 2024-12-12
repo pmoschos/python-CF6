@@ -1,4 +1,4 @@
-# Inventory Management Script
+# 🏬 Inventory Management Script 🛒
 
 This Python script demonstrates inventory management using object-oriented principles. It allows adding, removing, and managing items in an inventory, including custom exception handling for out-of-stock scenarios.
 

@@ -1,4 +1,4 @@
-# Fahrenheit to Celsius Conversion
+# 🌡️ Fahrenheit to Celsius Conversion 🔄
 
 This script demonstrates how to convert temperatures from Fahrenheit to Celsius using both list comprehensions and generator expressions in Python.
 

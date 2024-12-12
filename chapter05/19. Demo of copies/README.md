@@ -1,4 +1,4 @@
-# Deep and Shallow Copy Demonstration in Python
+# 🛠️ Deep and Shallow Copy Demonstration in Python 🔄
 
 This script demonstrates the differences between shallow and deep copies in Python. By using various methods to copy a list, including both shallow and deep copying, we can observe how modifications to the original list affect its copies.
 

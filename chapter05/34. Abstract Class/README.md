@@ -1,4 +1,4 @@
-# Abstract Classes Demo Script
+# 🛡️ Abstract Classes Demo Script 🔄
 
 This Python script demonstrates the use of abstract base classes (ABCs) to define APIs for two different contexts: a Student DAO (Data Access Object) and an Inventory system. The script provides concrete implementations of these abstract classes and showcases their functionality through example usage.
 

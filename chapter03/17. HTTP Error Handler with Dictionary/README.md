@@ -1,4 +1,4 @@
-# Python HTTP Error Code Handler
+# 🔑 Python Random Password Generator 🗝️
 
 Welcome to the Python HTTP Error Code Handler script! This script returns the HTTP error message corresponding to a given error code using a dictionary. It's an ideal resource for understanding dictionary usage and conditional statements in Python.
 

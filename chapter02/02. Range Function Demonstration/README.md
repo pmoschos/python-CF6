@@ -1,4 +1,4 @@
-# Python Nested Loops Demonstration
+# 🔄 Python Nested Loops Demonstration 🔁
 
 Welcome to the Python Nested Loops Demonstration! This script highlights the use of nested loops in Python with a practical example of a multiplication table. It’s a great resource for understanding how loops can work together to solve problems effectively.
 

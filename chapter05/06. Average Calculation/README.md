@@ -1,4 +1,4 @@
-# Average Calculation Script
+# 📊 Average Calculation Script ➗
 
 Welcome to the Average Calculation Script! This script demonstrates how to calculate the average of a given set of numbers using variable-length arguments in Python.
 

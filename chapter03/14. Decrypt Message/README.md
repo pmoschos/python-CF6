@@ -1,4 +1,4 @@
-# Python Message Decryption Script
+# 🔑 Python Message Decryption Script 🔐
 
 Welcome to the Python Message Decryption Script! This script decrypts a message by removing all numeric characters from a given string. It's an ideal resource for understanding string manipulation and character filtering in Python.
 

@@ -1,4 +1,4 @@
-# Python Number Guessing Game
+# 🎯 Python Number Guessing Game 🎲
 
 Welcome to the Python Number Guessing Game! This script allows users to guess a randomly generated secret number within a specified range. The user receives feedback on their guesses, helping them to determine how close they are to the secret number.
 

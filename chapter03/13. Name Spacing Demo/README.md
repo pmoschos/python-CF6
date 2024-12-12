@@ -1,4 +1,4 @@
-# Python Name Spacing Script
+# 🗺️ Python Name Spacing Script 🖋️
 
 Welcome to the Python Name Spacing Script! This script takes a user-provided name and prints each character separated by a specified number of spaces. It's a useful exercise for understanding string manipulation and user input handling in Python.
 
