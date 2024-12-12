@@ -72,9 +72,9 @@ if __name__ == "__main__":
 No installation is required. Run the script directly from any Python-enabled environment:
 
 1. Ensure Python 3.x is installed on your machine.
-2. Save the script as `find_min_value_key.py`.
+2. Save the script as `08_find_min_value.py`.
 3. Open a terminal or command prompt.
-4. Navigate to the directory containing `find_min_value_key.py`.
+4. Navigate to the directory containing `08_find_min_value.py`.
 5. Run the script with:
 
    ```bash
