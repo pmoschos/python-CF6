@@ -59,7 +59,7 @@ This collection focuses on practical applications of advanced Python concepts su
 	<td>24. <a href="https://github.com/pmoschos/python-cf6/tree/main/chapter05/24.%20Unmodifiable%20Tuples" title="Using tuples to create immutable sequences.">Unmodifiable Tuples</a></td>
   </tr>
   <tr>
-  	<td>25. <a href="https://github.com/pmoschos/python-cf6/tree/main/chapter05/25.%20Dictionary%20Comprehensions" title="Using dictionary comprehensions for efficient dictionary creation and manipulation.">Dictionary Comprehensions</a></td>
+  	<td>25. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter05/25.%20Dictionary%20Comprehensions" title="Using dictionary comprehensions for efficient dictionary creation and manipulation.">Dictionary Comprehensions</a></td>
 	<td>26. <a href="https://github.com/pmoschos/python-cf65/tree/main/chapter05/26.%20Student%20Grades" title="Managing and processing student grades using various programming techniques.">Student Grades</a></td>
 	<td>27. <a href="https://github.com/pmoschos/python-cf6/tree/main/chapter05/27.%20Sales%20Analysis" title="Analyzing sales data to extract meaningful insights.">Sales Analysis</a></td>
   </tr>
