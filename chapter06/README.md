@@ -1,6 +1,6 @@
 # 🐍 Database Operations with MySQL 🐍
 
-![Total Views](https://views.whatilearened.today/views/github/yourusername/python-educational-scripts.svg) ![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/python_cf5) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/python-CF6.svg)![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/python-CF6) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Overview 🌟
 Welcome to the Database Operations repository, a comprehensive collection of Python scripts designed to help you interact with MySQL databases. This repository serves as a resource for mastering database connections, table creation, data insertion, and data retrieval through practical examples.
@@ -18,19 +18,19 @@ This collection focuses on practical applications of database operations such as
 
 <table>
   <tr>
-  	<td>01. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter06/01.%20Create%20Database" title="Create a database connection and a new database.">Create Database</a></td>
+  	<td>01. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter06/01.%20Create%20Database" title="Create a database connection and a new database.">Create Database</a></td>
   </tr>
    <tr>
-  	<td>02. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter06/02.%20Create%20Tables" title="Create tables in the MySQL database.">Create Tables</a></td>
+  	<td>02. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter06/02.%20Create%20Tables" title="Create tables in the MySQL database.">Create Tables</a></td>
   </tr>
    <tr>
-  	<td>03. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter06/03.%20Insert%20Data" title="Insert data into the database tables.">Insert Data</a></td>
+  	<td>03. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter06/03.%20Insert%20Data" title="Insert data into the database tables.">Insert Data</a></td>
   </tr>
    <tr>
-  	<td>04. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter06/04%20Update%20Data" title="Update data into the database tables.">Update Data</a></td>
+  	<td>04. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter06/04%20Update%20Data" title="Update data into the database tables.">Update Data</a></td>
   </tr>
    <tr>
-  	<td>05. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter06/05.%20Retrieve%20Data" title="Retrieve data from the database tables.">Retrieve Data</a></td>
+  	<td>05. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter06/05.%20Retrieve%20Data" title="Retrieve data from the database tables.">Retrieve Data</a></td>
   </tr>
 </table>
 
