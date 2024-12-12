@@ -1,4 +1,4 @@
-# Python Variables and Data Types Demo
+# 🔢 Python Variables and Data Types Demo 📊
 
 This README outlines a simple Python script that demonstrates the initialization of variables using different data types and different quotation styles for strings. This script is designed to help beginners understand basic Python variable types and print operations.
 

@@ -1,5 +1,4 @@
-
-# Python Time Conversion Demo
+# ⏳ Python Time Conversion Demo ⌚
 
 This README accompanies a Python script that demonstrates how to convert a given number of seconds into days, hours, minutes, and seconds. This example is valuable for understanding basic arithmetic operations and modular arithmetic in Python.
 

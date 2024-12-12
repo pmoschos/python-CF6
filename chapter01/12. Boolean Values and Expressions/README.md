@@ -1,5 +1,4 @@
-
-# Python Boolean Operations Demo
+# ✅ Python Boolean Operations Demo ❌
 
 This README accompanies a Python script that demonstrates how to use Boolean variables and operations, including logical operations and Boolean behavior in arithmetic contexts. This example helps in understanding Boolean logic which is fundamental to control flow in programming.
 

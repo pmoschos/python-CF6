@@ -1,5 +1,4 @@
-
-# Python Floating-Point and Scientific Notation Demo
+# 🔬 Python Floating-Point and Scientific Notation Demo 🧪
 
 This README accompanies a Python script that demonstrates handling floating-point numbers and using scientific notation. This example helps in understanding precision in floating-point arithmetic and the convenience of expressing very large or small numbers using scientific notation.
 

@@ -1,5 +1,4 @@
-
-# Python Magic Methods Demo
+# ✨ Python Magic Methods Demo 🪄
 
 This README accompanies a Python script that demonstrates the use of Python's magic methods, specifically `__add__`, for performing arithmetic operations. This example is useful for understanding how Python handles operator overloading, which allows objects of custom classes to interact with built-in operators like +.
 

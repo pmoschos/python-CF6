@@ -1,5 +1,4 @@
-
-# Python Interest Calculation Demo
+# 💰 Python Interest Calculation Demo 📈
 
 This README accompanies a Python script that demonstrates how to calculate interest on a principal amount using a given interest rate. This example serves as a fundamental demonstration of arithmetic operations and formatting outputs in Python, particularly useful for financial calculations.
 

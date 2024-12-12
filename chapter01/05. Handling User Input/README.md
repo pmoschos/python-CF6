@@ -1,5 +1,5 @@
 
-# Python User Interaction and Data Conversion Demo
+# 🗣️ Python User Interaction and Data Conversion Demo 🔄
 
 This README describes a Python script that prompts the user for personal information like name, year of birth, and height, and then uses this data to perform and display calculations such as the user's age and height in meters. This example is great for beginners to understand user input handling, data type conversion, and basic arithmetic operations in Python.
 

@@ -1,4 +1,4 @@
-# Python Character as String Demonstration
+# 🅰️ Python Character as String Demonstration 🅱️
 
 Welcome to the Python Character as String Demonstration! This script highlights how Python treats characters, which unlike in languages like C or Java, are treated as strings of length one. It's an ideal resource for anyone new to Python or those teaching programming concepts related to string handling.
 

@@ -1,5 +1,4 @@
-
-# Python Integer Range Display Demo
+# 🔢 Python Integer Range Display Demo ↔️
 
 This README accompanies a Python script that demonstrates how to retrieve and display the maximum and minimum integer values in Python using the `sys` module. This is particularly useful for understanding the capabilities and limitations of integer handling in different system architectures (32-bit vs 64-bit).
 

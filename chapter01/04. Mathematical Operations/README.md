@@ -1,4 +1,4 @@
-# Python String Formatting and Math Module Demo
+# 🧮 Python String Formatting and Math Module Demo 🔢
 
 This README outlines a Python script that demonstrates various techniques of string formatting including Python 2 style, Python 3 `str.format()` method, and modern Python 3 f-strings. Additionally, it shows basic usage of the `math` module to access mathematical constants.
 

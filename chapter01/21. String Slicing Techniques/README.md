@@ -1,4 +1,4 @@
-# Python String Slicing Demonstration
+# 🔪 Python String Slicing Demonstration ✂️
 
 Welcome to the Python String Slicing Demonstration! This script showcases various methods for slicing strings to extract and manipulate substrings. It's an ideal resource for anyone new to Python or those teaching programming concepts related to string operations.
 

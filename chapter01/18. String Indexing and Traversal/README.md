@@ -1,4 +1,4 @@
-# Python String Handling Demonstration
+# 🖋️ Python String Handling Demonstration 🔄
 
 Welcome to the Python String Handling Demonstration! This script illustrates how to manipulate and navigate strings in Python using indexing, loops, and string properties like immutability. It's an ideal resource for anyone new to Python or those teaching fundamental programming concepts related to string operations.
 

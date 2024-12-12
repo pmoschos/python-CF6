@@ -1,4 +1,4 @@
-# Python String Operations Demonstration
+# 🔡 Python String Operations Demonstration ✂️
 
 Welcome to the Python String Operations Demonstration! This script showcases various methods for manipulating strings through concatenation and multiplication. It's an ideal resource for anyone new to Python or those teaching programming concepts related to string operations.
 

@@ -1,4 +1,4 @@
-# Basic Python Variable and Print Example
+# 📄 Basic Python Variable and Print Example 🖋️
 
 This Python script demonstrates simple variable assignments and print statements, ideal for beginners learning Python basics.
 

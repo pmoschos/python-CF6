@@ -1,4 +1,4 @@
-# Python Range Demonstration
+# 📏 Python Range Demonstration ➡️
 
 Welcome to the Python Range Demonstration! This script demonstrates the efficiency of the `range()` function in Python for generating sequences of numbers, specifically showing how to generate odd numbers efficiently compared to a more traditional approach.
 

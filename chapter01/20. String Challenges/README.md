@@ -1,4 +1,4 @@
-# Python String Manipulation Challenges
+# 🎯 Python String Manipulation Challenges 🛠️
 
 Welcome to the Python String Manipulation Challenges! This guide showcases creative ways to manipulate and format strings using Python. These challenges are designed to enhance your understanding of Python's string capabilities, making it a perfect resource for learners and educators alike.
 

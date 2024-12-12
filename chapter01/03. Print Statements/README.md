@@ -1,4 +1,4 @@
-# Python Variables and Printing Options Demo
+# ✏️ Python Variables and Printing Options Demo 🖨️
 
 This README describes a Python script that initializes three different types of variables—an integer, a float, and a string—and demonstrates various ways to format their output using the `print` function. It's a practical example for those new to Python, focusing on variable handling and custom print formatting.
 

@@ -1,5 +1,4 @@
-
-# Python Input Handling and Logical Operations Demo
+# 📥 Python Input Handling and Logical Operations Demo 📤
 
 This README accompanies a Python script that demonstrates how to handle user input effectively and utilize logical operators to make dynamic variable assignments based on user input. This example is valuable for anyone learning how to interact with users through the command line and handle conditional logic in Python.
 

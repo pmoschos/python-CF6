@@ -1,5 +1,4 @@
-
-# Python Logical Operators Demo
+# 🔄 Python Logical Operators Demo 🤔
 
 This README accompanies a Python script that demonstrates the use of logical operators `or` and `and` for variable assignment and conditional checking. This example is crucial for understanding control flow mechanisms and decision-making processes in programming.
 

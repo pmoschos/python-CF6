@@ -1,4 +1,4 @@
-# Python String Types Demonstration
+# ✍️ Python String Types Demonstration 🔤
 
 Welcome to the Python String Types Demonstration! This script showcases various methods for defining and displaying strings in Python. It's an excellent resource for anyone new to Python or teaching programming concepts related to strings.
 
