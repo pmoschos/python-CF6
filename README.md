@@ -24,8 +24,8 @@ Python Learning Scripts offers a practical approach to learning Python by focusi
 06. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter06" title="Chapter 06">Chapter 06 - Database Operations with MySQL</a></td>
 07. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter07" title="Chapter 07">Chapter 07 - Practical Examples Testing for Mastering Python</a></td>
 08. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter08" title="Chapter 07">Chapter 08 - Python Advanced Examples</a></td>
-09. <a href="" title="Chapter 09">Chapter 09 - ASCII Art Generator</a></td>
-10. <a href="" title="Chapter 10">Chapter 10 - ...</a></td>
+09. <a href="" title="Chapter 09">Chapter 09 - Simple Machine Learning Projects</a></td>
+10. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter10" title="Chapter 10">Chapter 10 - ASCII Art Generator</a></td>
  
 ### Educational Value 🎓
 - Code snippets and scripts for direct classroom use
