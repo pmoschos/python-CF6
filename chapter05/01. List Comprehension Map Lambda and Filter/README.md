@@ -1,4 +1,4 @@
-# Squaring Numbers in a List Script
+# 🔄 Squaring Numbers in a List Script 🔢
 
 Welcome to the Squaring Numbers in a List Script! This script demonstrates various methods to square numbers in a list using Python. The methods include `list comprehension`, the `map` function with both `lambda` and `named functions`, and `filtering` even numbers before squaring.
 
