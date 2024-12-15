@@ -12,19 +12,19 @@ This repository contains advanced Python scripts that demonstrate various machin
 
 <table>
   <tr>
-    <td>01. <a href="file:///mnt/data/housing.py" title="Linear regression with single feature for housing price prediction.">Housing Price Prediction (Single Feature)</a></td>
+    <td>01. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter09/01.%20Simple%20Linear%20Regression" title="Linear regression with single feature for housing price prediction.">Housing Price Prediction (Single Feature)</a></td>
   </tr>
   <tr>
-    <td>02. <a href="file:///mnt/data/housing2.py" title="Linear regression with multiple features for housing price prediction.">Housing Price Prediction (Multiple Features)</a></td>
+    <td>02. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter09/02.%20Multi%20Linear%20Regression" title="Linear regression with multiple features for housing price prediction.">Housing Price Prediction (Multiple Features)</a></td>
   </tr>
   <tr>
-    <td>03. <a href="file:///mnt/data/housing3.py" title="Linear regression with all features for housing price prediction.">Housing Price Prediction (All Features)</a></td>
+    <td>03. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter09/03.%20Multi%20Linear%20Regression%20extended" title="Linear regression with all features for housing price prediction.">Housing Price Prediction (All Features)</a></td>
   </tr>
   <tr>
-    <td>04. <a href="file:///mnt/data/knn_classification.py" title="K-Nearest Neighbors classification with error rate analysis.">KNN Classification</a></td>
+    <td>04. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter09/04.%20Classification%20ClassifiedData" title="K-Nearest Neighbors classification with error rate analysis.">KNN Classification</a></td>
   </tr>
   <tr>
-    <td>05. <a href="file:///mnt/data/mnist_cnn.py" title="Convolutional Neural Network for MNIST digit classification.">MNIST CNN Classification</a></td>
+    <td>05. <a href="https://github.com/pmoschos/python-CF6/tree/main/chapter09/05.%20MNIST%20Dataset" title="Convolutional Neural Network for MNIST digit classification.">MNIST CNN Classification</a></td>
   </tr>
 </table>
 
