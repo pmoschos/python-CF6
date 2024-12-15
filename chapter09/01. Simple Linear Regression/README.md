@@ -34,7 +34,7 @@ linear_model.fit(X_train, y_train)
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/pmoschos.........git
+   git clone https://github.com/pmoschos/python-CF6.git
    ```
 2. **Navigate to Directory:**
    ```bash
@@ -74,8 +74,13 @@ print(f"Predicted Price: ${price_predicted[0]:,.2f}")
 
 ## Outputs 📊
 1. **Pairplot Visualization:** Shows relationships between features (Saved as `pairplot.png`).
+![image](https://github.com/user-attachments/assets/3b7b961f-db5e-47b5-9ccc-d0a8cf2cfe9e)
+
 2. **Correlation Heatmap:** Displays feature correlations (Saved as `correlation_heatmap.png`).
+![image](https://github.com/user-attachments/assets/429d5a4b-57d3-4691-88da-d6f53976505a)
+
 3. **Scatter Plot:** Compares Actual vs. Predicted values (Saved as `predictions_vs_actuals_income.png`).
+![image](https://github.com/user-attachments/assets/c0116de4-39e9-4434-8859-592b5a7eb8a2)
 
 ### Example Metrics:
 - **Mean Absolute Error (MAE):** 12345.67
