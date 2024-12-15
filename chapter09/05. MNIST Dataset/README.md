@@ -54,15 +54,18 @@ python mnist_cnn.py
 
 ### Key Outputs:
 1. **Model Summary:** Overview of the CNN architecture.
+
 ![image](https://github.com/user-attachments/assets/a2c79b46-ef68-47e9-8e86-4e5b2e4f16f1)
 
 2. **Test Accuracy:** Final accuracy on the test set (e.g., `Test accuracy: 0.98`).
 3. **Prediction Visualizations:**
    - Saved as `mnist_plots/example_1.png`, `mnist_plots/example_2.png`, etc.
+
 ![image](https://github.com/user-attachments/assets/071b735a-a61e-440b-8d2c-5fe08e79494a)
 
 4. **Misclassified Examples:**
    - Saved as `mnist_plots/misclassified_1.png`, `mnist_plots/misclassified_2.png`, etc.
+
 ![image](https://github.com/user-attachments/assets/da0972e3-dc2c-4a17-a416-72eadc9682fe)
 
 ### Example Outputs:
