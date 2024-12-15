@@ -55,8 +55,13 @@ print(f"Predicted Price: ${price_predicted[0]:,.2f}")
 
 ## Outputs 📊
 1. **Pairplot Visualization:** Shows relationships between features (Saved as `pairplot.png`).
+![image](https://github.com/user-attachments/assets/8ea3baf3-4365-41b5-a6f2-d55cb3b09071)
+
 2. **Correlation Heatmap:** Displays feature correlations (Saved as `correlation_heatmap.png`).
+![image](https://github.com/user-attachments/assets/8e55627b-de26-47c6-b83c-8a53ae3d2c4f)
+
 3. **Scatter Plot:** Compares Actual vs. Predicted values (Saved as `predictions_vs_actuals_selected_features.png`).
+![image](https://github.com/user-attachments/assets/35b34164-b373-4b70-8e51-5493fd218201)
 
 ### Example Metrics:
 - **Mean Absolute Error (MAE):** 12345.67

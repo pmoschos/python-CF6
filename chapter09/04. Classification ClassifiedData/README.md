@@ -47,10 +47,15 @@ python knn_classification.py
 ### Key Visualizations:
 1. **Error Rate vs. k Value:**
    - Saved as `plots/error_rate_vs_k.png`
+![image](https://github.com/user-attachments/assets/d8e4a503-9ebf-4f4c-8fa0-76e831be6e18)
+
 2. **Confusion Matrix:**
    - Saved as `plots/confusion_matrix_k13.png`
+![image](https://github.com/user-attachments/assets/68860e58-4005-4394-8e21-0e4499eef621)
+
 3. **Classification Report Heatmap:**
    - Saved as `plots/classification_report_k13.png`
+![image](https://github.com/user-attachments/assets/8495f815-a3a8-4a72-84b0-d119ab883cc3)
 
 ### Example Outputs:
 - **Confusion Matrix:**
